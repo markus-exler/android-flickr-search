@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ripeDark">#131313</color>
+    <color name="flickrDark">#232326</color>
+    <color name="flickrPink">#F7007C</color>
+    <color name="flickrPinkDark">#be0050</color>
+    <color name="flickrBlue">#005cd8</color>
+    <color name="flickrBlueDark">#0034a5</color>
+
+</resources>

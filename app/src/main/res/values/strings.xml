@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Search</string>
+    <string name="bt_retry">Retry</string>
+    <string name="search">Search</string>
+    <string name="no_pictures_found">No pictures found</string>
+    <string name="no_internet">No internet connection</string>
+</resources>
